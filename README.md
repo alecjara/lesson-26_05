@@ -8,5 +8,3 @@
 4. once you are inside that new branch add another README file named hello.md
 5. Inside hello.md add some text 
 6. Push `the new branch` to the this repository  
-
-7. just added another line
